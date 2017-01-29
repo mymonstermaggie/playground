@@ -1,0 +1,15 @@
+* {
+  background-color: lightgrey;
+}
+
+div {
+  text-align: center;
+  background-color: darkgrey;
+  color: mediumseagreen;
+  font-family: fantasy;
+  padding: 20px;
+}
+
+h1 {
+  background-color: inherit;
+}
