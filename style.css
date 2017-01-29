@@ -1,15 +1,13 @@
 * {
-  background-color: lightgrey;
+  background-color: black;
 }
 
 div {
   text-align: center;
-  background-color: darkgrey;
-  color: mediumseagreen;
-  font-family: fantasy;
-  padding: 20px;
-}
-
-h1 {
-  background-color: inherit;
+  color: limegreen;
+  font-family: sans-serif;
+  padding: 25px;
+  margin: 20px;
+  width: 50%;
+  border: 5px dashed limegreen;
 }
