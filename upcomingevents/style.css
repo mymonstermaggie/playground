@@ -1,0 +1,47 @@
+.parallax {
+    /* The image used */
+    background-image: url("speaking.jpg");
+
+    /* Set a specific height */
+    height: 1000px;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+#top {
+  background-image: url('/imgs/logo.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: bottom;
+  padding-top: 10px;
+  padding-bottom: 75px;
+  width: 100%;
+  max-width: 900px;
+}
+
+.img-fluid {
+  max-width: 450px;
+  height: 600px;
+}
+.synopsis {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  color: white;
+  text-align: center;
+}
+
+a {
+  color: green;
+}
+
+a:hover {
+  color: grey;
+}
